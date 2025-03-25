@@ -9,6 +9,7 @@ Sou estudante de Ciência da Computação na UFV, apaixonado por tecnologia e de
 - **Linguagens de Programação**:  
   <div style="display: inline-block;">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" />
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
