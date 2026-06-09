@@ -1,10 +1,4 @@
 <div align="center">
-  <a href="https://github.com/alvaroagsn">
-    <img src="assets/banner.png" alt="Meu Banner" width="100%">
-  </a>
-</div>
-
-<div align="center">
   <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="45px" style="vertical-align: middle;"> Olá, eu sou o Álvaro Gomes!</h1>
   <h3>Desenvolvedor Full-Stack focado em construir soluções de backend robustas e interfaces de usuário modernas, fluidas e de alta performance. Busco unir a solidez e a escalabilidade técnica no desenvolvimento de software com experiências de usuário premium e intuitivas.</h3>
   <h4>🎓 Ciência da Computação @ UFV | Java • Spring Boot • React.js • Next.js • PostgreSQL • Node.js • TypeScript • TailwindCSS</h4>
